@@ -1,4 +1,13 @@
-<xml>
-    <b1>"сломалась ветка л1"</b1>
-    <b2>"при нажатии на ветку л1, ничего не происходит"</b2>
-    <b3>"при обновлении драйвера н1"</b3>
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+    <Environment>Your environment</Environment>
+    <ID>BUG_ID</ID>
+    <Summary>What?Where?Why?</Summary>
+    <STR>
+      <Step1>Step description</Step1>
+      <Step2>Step description</Step2>
+    </STR>
+    <Actual_Result>...</Actual_Result>
+    <Expected_Result>...</Expected_Result>
+    <Attachments>...</Attachments>
+</bug_report>
